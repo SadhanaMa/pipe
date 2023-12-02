@@ -40,7 +40,7 @@ public class DataEntry extends JFrame{
 
     Workflow workTable;
     Business business;
-    
+    //make a jframe
     public void makeNewJFrame()
     {
         //create the frame
