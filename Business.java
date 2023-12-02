@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-
+//business class
 public class Business {
 
     private ArrayList<DataEntry> dataBase;
